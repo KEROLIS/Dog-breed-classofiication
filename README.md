@@ -1,2 +1,2 @@
 # dog-breed-classofiication
-CNN for classify the dog breeds
+CNN to classify the dog breeds
